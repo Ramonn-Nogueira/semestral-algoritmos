@@ -1,13 +1,13 @@
 <h2>Faça um programa que leia os dados e preencha uma lista cujo conteúdo é a população dos 3 municípios
 mais populosos de cada um dos 26 estados brasileiros.</h2>
-<table class="demo">
+<table class="demo" align="center">
 	<caption>TABELA DE ESTADOS</caption>
 	<thead>
 	<tr>
-		<th>Cabeçalho 1</th>
-		<th>Cabeçalho 2</th>
-		<th>Cabeçalho 3</th>
-		<th>Cabeçalho 4</th>
+		<th>1</th>
+		<th> 2</th>
+		<th> 3</th>
+		<th> 4</th>
 	</tr>
 	</thead>
 	<tbody>
@@ -175,10 +175,10 @@ mais populosos de cada um dos 26 estados brasileiros.</h2>
 	</tr>
 	<tbody>
 </table>
-<h2>Determine e imprima:
+<h3>Determine e imprima:
 <li>a. imprima a média da população dos 3 municípios de cada estado.</li>
 <li>b. considerando que a 2ª coluna (1) contém sempre a população da capital do estado, calcular a média da
 população das capitais dos 26 estados;</li>
 <li>c. o número do município (coluna) mais populoso e o nome do estado a que ele pertence, considerando que
 não houve empate.</li>
-</h2>
+</h3>
