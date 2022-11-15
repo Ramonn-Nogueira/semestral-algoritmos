@@ -15,56 +15,108 @@ municipio=[]
 i = 0
 
 while i < 27:
-    AC=[]
+    AC=[(int(input('RIO BRANCO:')))
+        (int(input('CRUZEIRO DO SUL:')))
+        (int(input('SENA MADUREIRA:')))]
 
-    AL=[]
+    AL=[(int(input('MACEIÓ:')))
+        (int(input('ARAPIRACA')))
+        (int(input('RIO LARGO')))]
 
-    AP=[]
+    AP=[(int(input('MACAPÁ:')))
+        (int(input('SANTANA:')))
+        (int(input('LARANJAL DO JARI:')))]
 
-    AM=[]
+    AM=[(int(input('MANAUS:')))
+        (int(input('PARITINS:')))
+        (int(input('ITACOATIARA:')))]
 
-    BA=[]
+    BA=[(int(input('SALVADOR:')))
+        (int(input('FEIRA DE SANTANA:')))
+        (int(input('VITÓRIA DA CONQUISTA:')))]
 
-    CE=[]
+    CE=[(int(input('FORTALEZA:')))
+        (int(input('CAUACAIA:')))
+        (int(input('JUAZEIRO DO NORTE:')))]
 
-    DF=[]
+    DF=[(int(input('BRASÍLIA')))]
 
-    ES=[]
+    ES=[(int(input('SERRA:')))
+        (int(input('VILA VELHA:')))
+        (int(input('CARIACICA:')))]
 
-    GO=[]
+    GO=[(int(input('GOIÂNIA:')))
+        (int(input('APARECIDA DE GOIÂNIA:')))
+        (int(input('ANÁPOLIS:')))]
 
-    MA=[]
+    MA=[(int(input('SÃO LUÍS:')))
+        (int(input('IMPERATRIZ:')))
+        (int(input('S. JOSÉ DO RIBAMAR:')))]
 
-    MT=[]
+    MT=[(int(input('CUIABÁ:')))
+        (int(input('VÁRZEA GRANDE:')))
+        (int(input('RONDONÓPOLIS:')))]
 
-    MS=[]
+    MS=[(int(input('CAMPO GRANDE:')))
+        (int(input('DOURADOS:')))
+        (int(input('TRÊS LAGOAS:')))]
 
-    MG=[]
+    MG=[(int(input('BELO HORIZONTE:')))
+        (int(input('UBERLÂNDIA:')))
+        (int(input('CONTAGEM:')))]
 
-    PA=[]
+    PA=[(int(input('BELÉM:')))
+        (int(input('ANANINDEUA:')))
+        (int(input('SANTARÉM:')))]
 
-    PB=[]
+    PB=[(int(input('JOÃO PESSOA:')))
+        (int(input('CAMPINA GRANDE:')))
+        (int(input('SANTA RITA:')))]
 
-    PR=[]
+    PR=[(int(input('CURITIBA:')))
+        (int(input('LONDRINA:')))
+        (int(input('MARINGÁ:')))]
 
-    PE=[]
+    PE=[(int(input('RECIFE:')))
+        (int(input('JABOATÃO:')))
+        (int(input('OLINDA:')))]
 
-    PI=[]
+    PI=[(int(input('TERESINA:')))
+        (int(input('PARNAÍBA:')))
+        (int(input('PICOS:')))]
 
-    RJ=[]
+    RJ=[(int(input('RIO DE JANEIRO:')))
+        (int(input('SÃO GONÇALO:')))
+        (int(input('DUQUE DE CAXIAS:')))]
 
-    RN=[]
+    RN=[(int(input('NATAL:')))
+        (int(input('MOSSORÓ:')))
+        (int(input('PARNAMIRIM:')))]
 
-    RS=[]
+    RS=[(int(input('PORTO ALEGRE:')))
+        (int(input('CAXIAS DO SUL:')))
+        (int(input('PELOTAS:')))]
 
-    RO=[]
+    RO=[(int(input('PORTO VELHO:')))
+        (int(input('JI-PARANÁ:')))
+        (int(input('ARIQUEMES:')))]
 
-    RR=[]
+    RR=[(int(input('BOA VISTA:')))
+        (int(input('RORAINÓPOLIS:')))
+        (int(input('CARACARAÍ:')))]
 
-    SC=[]
+    SC=[(int(input('JOINVILLE:')))
+        (int(input('FLORIANÓPOLIS:')))
+        (int(input('BLUMENAU:')))]
 
-    SP=[]
+    SP=[(int(input('SÃO PAULO:')))
+        (int(input('GUARULHOS:')))
+        (int(input('CAMPINAS:')))]
 
-    SE=[]
+    SE=[(int(input('ARACAJU:')))
+        (int(input('NOSSA S.ª DO SOCORRO:')))
+        (int(input('LAGARTO:')))]
 
-    TO=[]
+    TO=[(int(input('PALMAS:')))
+        (int(input('ARAGUAÍNA:')))
+        (int(input('GURUPI:')))]
